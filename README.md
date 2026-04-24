@@ -1,3 +1,9 @@
+# Live Backend URL
+http://localhost:5173/register
+
+# Admin Panel 
+http://localhost:8000/admin/
+
 # Tech Academy API
 
 Backend for Tech Academy internship project.
